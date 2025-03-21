@@ -1,0 +1,18 @@
+{
+  "name": "queue_service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "fivebeans": "^1.5.0",
+    "redis": "^4.7.0"
+  }
+}
